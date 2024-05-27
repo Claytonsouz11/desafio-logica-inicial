@@ -1,1 +1,3 @@
-console.log("Hello World")
+let escola = 10
+console.log("Hello World " + escola)
+
